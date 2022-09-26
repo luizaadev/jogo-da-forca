@@ -28,6 +28,7 @@ body {
     height: 272px;
     background-repeat: no-repeat;
 }
+
 #palavra-secreta {
     display: flex;
     flex-direction: row;
